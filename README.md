@@ -9,7 +9,7 @@ Thanks for your contributing.
 | Code | Name | Link | Contributors |
 | --- | --- | --- | --- |
 | en | English | [link](https://github.com/shieldon-io/library-translations/tree/master/en) | - | 
-| zh | 中文| - |  [link](https://github.com/shieldon-io/library-translations/tree/master/zh) | - |
+| zh | 中文 |  [link](https://github.com/shieldon-io/library-translations/tree/master/zh) | - |
 | ru | Pусский | [link](https://github.com/shieldon-io/library-translations/tree/master/ru) |  - | 
 | de | Deutsch| [link](https://github.com/shieldon-io/library-translations/tree/master/de) |  - | 
 | ja | 日本語 | [link](https://github.com/shieldon-io/library-translations/tree/master/ja) |  - | 
